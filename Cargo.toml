@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = ["crates/one", "crates/two"]
+
+[workspace.dependencies]
+uniffi = "0.28.0"

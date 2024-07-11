@@ -1,0 +1,4 @@
+namespace = "two"
+
+[bindings.kotlin]
+package_name = "com.sajjon.two"
